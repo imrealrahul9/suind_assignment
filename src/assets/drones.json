@@ -46,7 +46,7 @@
       "status": "Available",
       "flight_hours": 120,
       "battery_status": "80%",
-      "last_known_location": [40.712776, -74.005974],
+      "last_known_location": [28.7041,77.1025],
       "current_mission": "Survey field A",
       "maintenance_logs": [
         {"date": "2024-01-10", "description": "Battery replacement", "technician": "John Doe"},
@@ -58,7 +58,7 @@
       "status": "Available",
       "flight_hours": 120,
       "battery_status": "80%",
-      "last_known_location": [40.712776, -74.005974],
+      "last_known_location": [19.0760, 72.8777],
       "current_mission": "Survey field A",
       "maintenance_logs": [
         {"date": "2024-01-10", "description": "Battery replacement", "technician": "John Doe"},
@@ -70,7 +70,7 @@
       "status": "Available",
       "flight_hours": 120,
       "battery_status": "80%",
-      "last_known_location": [40.712776, -74.005974],
+      "last_known_location": [12.9716, 77.5946],
       "current_mission": "Survey field A",
       "maintenance_logs": [
         {"date": "2024-01-10", "description": "Battery replacement", "technician": "John Doe"},
